@@ -6,3 +6,5 @@
 Essa linha eu adicionei diretamente no site! Muito IMPRESIONANTE!
 
 palmeira não tem mundia!
+
+aprendendo git
